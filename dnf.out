@@ -1,0 +1,8 @@
+Иденти | Командная строка                                                                                          | Дата и время     | Действия       | Изменен
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+     6 | install policycoreutils-python-utils-3.4-7.red80.noarch                                                   | 2026-10-11 21:31 | Downgrade      |    6  <
+     5 | install nginx libcap-ng-utils                                                                             | 2026-10-11 20:38 | Install        |    6 > 
+     4 | update                                                                                                    | 2026-10-11 20:35 | I, O, U        |  274 EE
+     3 | autoremove -y --setopt=metadata_expire=-1                                                                 | 2026-10-11 19:27 | Removed        |    1  <
+     2 | remove -y --setopt=metadata_expire=-1 open-vm-tools                                                       | 2026-10-11 19:27 | Removed        |    1 >E
+     1 |                                                                                                           | 2026-10-11 19:23 | Install        | 1944 EE

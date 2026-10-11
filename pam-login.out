@@ -1,0 +1,1 @@
+5:account    required     pam_succeed_if.so user notingroup curators
